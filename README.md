@@ -12,3 +12,4 @@ Sample output of the support and resistant line
 A second submodule implements double DQN on 20 years of derivatives data. For simplicity reasons  
 actions for each timestep is limited to buy one more unit, and sell all units. A preliminary result  
 is indicated in the following pictures  
+<img src="./tensor-reinforcement/result/ddqn.png" alt=" " width="1000" height="600">  
